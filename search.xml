@@ -7,7 +7,7 @@
       <link href="/2018/11/20/hello-world/"/>
       <url>/2018/11/20/hello-world/</url>
       
-        <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+<a id="more"></a></excerpt></p><the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
+        <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br><a id="more"></a></excerpt></p><the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
       
       
       
