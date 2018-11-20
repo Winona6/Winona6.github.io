@@ -84,8 +84,6 @@
 
 
 
-    <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56ff76c972fc0cf9"></script>
-
 
 
 
@@ -432,11 +430,11 @@
         var titleTime;
         document.addEventListener("visibilitychange", function() {
             if (document.hidden) {
-                document.title = "bye~ " + originTitle;
+                document.title = "bye " + originTitle;
                 clearTimeout(titleTime);
             }
             else {
-                document.title = "hello~ " + originTitle;
+                document.title = "hello " + originTitle;
                 titleTime = setTimeout(function() {
                     document.title = originTitle;
                 }, 2000);
